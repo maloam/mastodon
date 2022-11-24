@@ -27,7 +27,7 @@ SIG members should note that consequences are also spelled out in the FIRST Code
 
 The default information sharing policy is for all members to be bound by TLP:AMBER as defined here:
 
-https://www.first.org/tlp/
+ - https://www.first.org/tlp/
 
 Specific documents or pieces of information can be reclassified under general consensus of the SIG. Members should mark with the correct TLP any information they share with the SIG from outside the SIG. 
 

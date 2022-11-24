@@ -32,6 +32,5 @@ The default information sharing policy is for all members to be bound by TLP:AMB
 Specific documents or pieces of information can be reclassified under general consensus of the SIG. Members should mark with the correct TLP any information they share with the SIG from outside the SIG. 
 
 ### Affiliation Changes
-
 If a member changes their affiliation, tell the SIG chairs. If a member transitions between a FIRST member organization and a non-FIRST member organization, or from a non-FIRST member organization to another non-FIRST member organization, the SIG chairs will evaluate the transition as application as a new member.
 Information sharing policy

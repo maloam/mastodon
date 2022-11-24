@@ -40,4 +40,6 @@ FIRST members are automatically approved to join the SIG, and outside members ar
 
 In general, the SIG is a technical group rather than a policy group. Policy items that impact anti-abuse efforts are obviously relevant to SIG work, however the scope of SIG work is primarily technical advice about how to navigate the existing policy landscape.
 
+If you're interested in joining, please check out the <a href="policies">policies page</a>, which includes details on sharing information and our Code of Conduct.
+
 <p class="ui-buttons"><a href="https://portal.first.org/g/DNS%20Abuse%20SIG" class="button color-button animated">Request to Join</a></p>

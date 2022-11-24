@@ -33,4 +33,3 @@ Specific documents or pieces of information can be reclassified under general co
 
 ### Affiliation Changes
 If a member changes their affiliation, tell the SIG chairs. If a member transitions between a FIRST member organization and a non-FIRST member organization, or from a non-FIRST member organization to another non-FIRST member organization, the SIG chairs will evaluate the transition as application as a new member.
-Information sharing policy

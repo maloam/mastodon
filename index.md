@@ -1,21 +1,17 @@
 <!--
 ---
-title:  DNS Abuse SIG
+title:  FIRST DNS Abuse SIG
 ...
 -->
 
 # DNS Abuse SIG
-
-
 
 ## Mission
 
 The Domain Name System (DNS) is a critical part of the Internet, including mapping domain names to IP addresses. Malicious threat actors use domain names, their corresponding technical resources, and other parts of the DNS infrastructure, including its protocols, for their malicious cyber operations. CERTs are confronted with reported DNS abuse on a continuous basis, and rely heavily on DNS analysis and infrastructure to protect their constituencies. Understanding the international customary norms applicable for detecting and mitigating DNS abuse from the perspective of the global incident response community is critical for the open Internet’s stability, security and resiliency. 
 
 
-
 ## Goals & Deliverables
-
 
 1. Initially, provide a common language and a FIRST-definition of what the global incident response community understands as DNS Abuse in an operational context to protect its constituencies, as well as for purposes of global policy recommendations. 
 2. Develop a classification scheme for DNS Abuse.
@@ -25,15 +21,23 @@ The Domain Name System (DNS) is a critical part of the Internet, including mappi
 6. Outline possible best practices for each of the relevant stakeholders, 
 7. Organize and/or participate in meetings or conferences on DNS Abuse, and possibly deliver relevant presentations, or coordinate their delivery as reasonably necessary in furtherance of the goals outlined above.
 
+
+## Meetings and Communication
+
+We currently have a regularly scheduled weekly meeting on Thursdays at 13:00 UTC. Most regular communication is done through the Slack channel, but we also have a <a href="mailto:dns-abuse-sig@first.org">mailing list</a> for members which is used for more official discussion and in cases where we need to reach the entire SIG.
+
+
 ## Chair
 
-- John Todd, Quad9
-- Jonathan Spring, CERT/CC
-- Peter Lowe, DNSFilter 
+ - John Todd, Quad9
+ - Jonathan Spring, CERT/CC
+ - <a href="mailto:peter@dnsfilter.com">Peter Lowe</a>, DNSFilter 
 
-## Mailing list
 
-Any FIRST member may join, others are welcome as well, requests must be approved by the SIG chairs.
-- <dns-abuse-sig@first.org> (subscribers only; please complete the Request to Join form below)
+## Membership and Joining the SIG
+
+FIRST members are automatically approved to join the SIG, and outside members are welcome to apply from the technical and academic communities in research or operational roles that work with DNS and DNS Abuse. Applications from non-FIRST members must be approved by the SIG chairs.
+
+In general, the SIG is a technical group rather than a policy group. Policy items that impact anti-abuse efforts are obviously relevant to SIG work, however the scope of SIG work is primarily technical advice about how to navigate the existing policy landscape.
 
 <p class="ui-buttons"><a href="https://portal.first.org/g/DNS%20Abuse%20SIG" class="button color-button animated">Request to Join</a></p>

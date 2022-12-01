@@ -1,6 +1,6 @@
 <!--
 ---
-title:  "FIRST DNS Abuse SIG"
+title:  FIRST DNS Abuse SIG
 ...
 -->
 

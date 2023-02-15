@@ -22,6 +22,17 @@ The Domain Name System (DNS) is a critical part of the Internet, including mappi
 7. Organize and/or participate in meetings or conferences on DNS Abuse, and possibly deliver relevant presentations, or coordinate their delivery as reasonably necessary in furtherance of the goals outlined above.
 
 
+## Publications
+
+We have published one major document, a matrix of DNS Abuse Techniques and Stakeholders:
+
+ - <a href="DNS-Abuse-Techniques-Matrix_v1.1.pdf">DNS-Abuse-Techniques-Matrix_v1.1.pdf</a>
+
+The advice currently takes the form of a matrix indicating whether a specific stakeholder can directly help with a specific technique. By “help”, we mean whether the stakeholder is in a position to detect, mitigate, or prevent the abuse technique. We have organized this information under three spreadsheets covering these incident response actions. For example, during an incident involving DNS cache poisoning, the team can go to the mitigation tab and look at the row for DNS cache poisoning, to find which stakeholders they might be able to contact to help mitigate the incident.
+
+Thanks is given in the document, which is the result of the collaboration between many people representing a wide range roles in the the DNS industry.
+
+
 ## Meetings and Communication
 
 We currently have a regularly scheduled weekly meeting on Thursdays at 13:00 UTC. Most regular communication is done through the Slack channel, but we also have a <a href="mailto:dns-abuse-sig@first.org">mailing list</a> for members which is used for more official discussion and in cases where we need to reach the entire SIG.

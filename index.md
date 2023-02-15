@@ -22,9 +22,9 @@ The Domain Name System (DNS) is a critical part of the Internet, including mappi
 7. Organize and/or participate in meetings or conferences on DNS Abuse, and possibly deliver relevant presentations, or coordinate their delivery as reasonably necessary in furtherance of the goals outlined above.
 
 
-## Publications
+## DNS Abuse Techniques Matrix
 
-We have published one major document, a matrix of DNS Abuse Techniques and Stakeholders:
+Our first major publication is a matrix of DNS Abuse Techniques and Stakeholders:
 
  - <a href="DNS-Abuse-Techniques-Matrix_v1.1.pdf">DNS-Abuse-Techniques-Matrix_v1.1.pdf</a>
 

@@ -41,7 +41,7 @@ We currently have a regularly scheduled weekly meeting on Thursdays at 13:00 UTC
 ## Chair
 
  - Jonathan Spring, CISA
- - <a href="mailto:peter@dnsfilter.com">Peter Lowe</a>, <a href="https://dnsfilter.com/">DNSFilter</a>
+ - Peter Lowe
 
 
 ## Membership and Joining the SIG

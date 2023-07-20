@@ -55,7 +55,7 @@ We currently have a regularly scheduled weekly meeting on Thursdays at either 07
 
  - Jonathan Spring, CISA
  - Peter Lowe
- - Swapneel Patnekar
+ - Swapneel Patnekar, Shreshta IT
 
 ## Founders
 

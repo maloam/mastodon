@@ -20,8 +20,7 @@ DGAs are listed as a technique for C2 traffic in MITRE ATTACK T1568.002:
     _“Adversaries may use DGAs for the purpose of Fallback Channels. When contact is lost with the primary command and control server malware may employ a DGA as a means to reestablishing command and control”_
 
 
-    _ \
-_[https://attack.mitre.org/techniques/T1568/002/](https://attack.mitre.org/techniques/T1568/002/)
+[https://attack.mitre.org/techniques/T1568/002/](https://attack.mitre.org/techniques/T1568/002/)
 
 
 ## Advice
@@ -38,3 +37,35 @@ MITRE ATT&CK describes detections for DGAs:
 
 
     [https://attack.mitre.org/techniques/T1568/002/](https://attack.mitre.org/techniques/T1568/002/)
+
+
+## Examples
+
+DGAs and the domains that they produce vary widely depending on their planned usage, typically for phishing or malware C2, and how stealthy they are trying to be.  As a result, there is no one definitive method to determine if an observed domain has been created by a DGA.
+
+However, there are several methods that can be combined to identify DGA domains, ranging from domain age to Whois lookups.  If an organization receives a report of a fraudulent domain and that domain appears to be a DGA, the organization can potentially pivot using publicly available domain Whois information, nameserver delegations, and IP addresses and netblocks in query answers to detect additional domains that were generated using the same DGA.
+
+Reviewing real-world examples of DGAs can help illustrate how different attributes of the domain name can help direct detection efforts. There are also simple, tried and true, no tool options such as measuring domain length: very short and very long domains might not indicate a DGA was used to create the domain. Be aware that some URL shorteners will use very short domains.
+
+As an individual example of a DGA, single words can be paired with different TLDs to create fraudulent domains. Threat actors, aware of string matching and/or fuzzy matching based on a “bag of words”, have used word lists to defeat searches looking for specific keywords. These words could be random dictionary words or represent words common to a particular field of study (e.g., anthropology, chemistry, etc.). 
+
+This technique was used in a spear phishing campaign that was reported by the IRS at[ https://www.irs.gov/newsroom/latest-spear-phishing-scams-target-tax-professionals](https://www.irs.gov/newsroom/latest-spear-phishing-scams-target-tax-professionals). This campaign targeted tax preparers using domains consisting of fraudulent domains of varying lengths using different word lists inside of several low-volume TLDs:
+
+**.rest TLD:` arborer[.]rest ataghans[.]rest bimotor[.]rest`**
+
+**.shop TLD:** `isosulphocyanic[.]shop mediostapedial[.]shop necessarianism[.]shop`
+
+**.world TLD:** `paleoethnography[.]world stereotaxically[.]world unforgettability[.]world`
+
+**.monster TLD: `backstabbing[.]monster bellflower[.]monster carousel[.]monster`**
+
+
+## Further Reading
+
+
+
+* “Dynamic Resolution: Domain Generation Algorithms” [https://attack.mitre.org/techniques/T1568/002/](https://attack.mitre.org/techniques/T1568/002/) 
+* <span style="text-decoration:underline;">“DGA posts by baderj”</span> [https://bin.re/tag/dga/](https://bin.re/tag/dga/) 
+* “The Ecosystem of Detection and Blocklisting of Domain Generation” [https://dl.acm.org/doi/fullHtml/10.1145/3423951](https://dl.acm.org/doi/fullHtml/10.1145/3423951) 
+* “A Comprehensive Measurement Study of Domain Generating Malware” [https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_plohmann.pdf](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_plohmann.pdf) 
+* “Domain Generation Algorithms (DGAs) of Malware reimplemented in Python”.https://github.com/baderj/domain_generation_algorithms

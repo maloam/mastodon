@@ -40,7 +40,7 @@ A version has been produced by JPCERT/CC in HTML form, hosted on GitHub:
 
 ### Japanese Translation
 
-Many thanks to Shoko Nakai for arranging a Japanese translation of this document, available here:
+We have a Japanese version of the document available here:
 
  -  <a href="DNS-Abuse-Techniques-Matrix_v1.1-ja.pdf">DNS-Abuse-Techniques-Matrix_v1.1-ja.pdf</a>
 

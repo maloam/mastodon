@@ -21,6 +21,8 @@
                 url: /global/sigs/dns/stakeholder-advice/detection/dns-server-compromise
             - title: Local Resolver Hijacking
                 url: /global/sigs/dns/stakeholder-advice/detection/local-resolver-hijacking
+            - title: On-path DNS Attack
+                url: /global/sigs/dns/stakeholder-advice/detection/on-path-dns-attack
             - title: Stub Resolver Hijacking
                 url: /global/sigs/dns/stakeholder-advice/detection/stub-resolver-hijacking
     - title: Code of Conduct & Other Policies

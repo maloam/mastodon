@@ -24,7 +24,11 @@ Comparing DNS query results against IP address reputation lists can potentially 
 
 ## Examples
 
+### **The Great Firewall**
+
 [The Great Firewall](https://en.wikipedia.org/wiki/Great_Firewall), part of China’s [Golden Shield Project](https://en.wikipedia.org/wiki/Golden_Shield_Project) sometimes adds responses to DNS traffic that are sent to the client before other responses. A recent example of such an attack is the “[Muddling Meerkat](https://www.bleepingcomputer.com/news/security/muddling-meerkat-hackers-manipulate-dns-using-chinas-great-firewall/)” actor manipulating MX records.
+
+### **NSA QUANTUM toolset**
 
 From the Snowden leaks we know that NSA has the capability to perform similar attacks as part of the [QUANTUM](https://www.wired.com/2014/03/quantum/) toolset.
 

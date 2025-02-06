@@ -11,14 +11,14 @@
                 url: /global/sigs/dns/stakeholder-advice/detection/cache-poisoning
             - title: DGA Domains
                 url: /global/sigs/dns/stakeholder-advice/detection/dga
-            - title: Domain Name Compromise
-                url: /global/sigs/dns/stakeholder-advice/detection/domain-name-compromise
             - title: DNS Rebinding
                 url: /global/sigs/dns/stakeholder-advice/detection/dns-rebinding
             - title: DNS Server Compromise
                 url: /global/sigs/dns/stakeholder-advice/detection/dns-server-compromise
             - title: DoS Against the DNS
                 url: /global/sigs/dns/stakeholder-advice/detection/dos-against-the-dns
+            - title: Domain Name Compromise
+                url: /global/sigs/dns/stakeholder-advice/detection/domain-name-compromise
             - title: Lame Delegations
                 url: /global/sigs/dns/stakeholder-advice/detection/lame-delegations
             - title: Local Resolver Hijacking

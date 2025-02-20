@@ -15,7 +15,7 @@ DNS can also be used as the protocol through which a straight query flood attack
 
 In some cases, DNSSEC queries can cause increased usage of DNS server resources.
 
-[This is part of the definition from MITRE ATT\&CK](https://attack.mitre.org/techniques/T1498/002/) for Network Denial of Service: Reflection Amplification:
+[This is part of the definition from MITRE ATT&CK](https://attack.mitre.org/techniques/T1498/002/) for Network Denial of Service: Reflection Amplification:
 
 "Adversaries may attempt to cause a denial of service by reflecting a high-volume of network traffic to a target. This type of Network DoS takes advantage of a third-party server intermediary that hosts and will respond to a given spoofed source IP address. This third-party server is commonly termed a reflector. An adversary accomplishes a reflection attack by sending packets to reflectors with the spoofed address of the victim. Two prominent protocols that have enabled Reflection Amplification Floods are DNS and NTP through the use of several others in the wild have been documented."
 

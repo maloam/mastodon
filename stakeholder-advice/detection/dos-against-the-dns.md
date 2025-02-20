@@ -17,7 +17,7 @@ One indicator of a DoS attack can be a sudden surge in network traffic and DNS q
 
 Unexplained crashes on the DNS server itself, severely increased resource usage, or unresponsive DNS servers can also indicate a DoS attack.
 
-To detect this, use an availability monitoring system or IDS/IPS to check if the servers are still functioning as intended and to check traffic for anomalies and irregularities. [Snort](https://www.snort.org/), [Zeek](https://zeek.org/), and [Suricata](https://zeek.org/), are examples of open source IDS tools to deploy for this function.
+To detect this, use an availability monitoring system or IDS/IPS to check if the servers are still functioning as intended and to check traffic for anomalies and irregularities. [Snort](https://www.snort.org/), [Zeek](https://zeek.org/), and [Suricata](https://suricata.io/), are examples of open source IDS tools to deploy for this function.
 
 Analyze traffic logs to identify high numbers of multiple requests from a single IP address, especially within a short period of time.
 

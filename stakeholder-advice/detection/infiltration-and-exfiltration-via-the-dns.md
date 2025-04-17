@@ -1,4 +1,10 @@
-# Infiltration and exfiltration via the DNS
+<!--
+---
+title: "DNS Abuse Detection: Infiltration and exfiltration via the DNS"
+...
+-->
+
+# DNS Abuse Detection: Infiltration and exfiltration via the DNS
 
 ### Definition
 

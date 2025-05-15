@@ -1,3 +1,8 @@
+<!--
+---
+title: "DNS Abuse Detection: Malicious registration of (effective) second level domains"
+...
+--->
 # DNS Abuse Detection: Malicious registration of (effective) second level domains
 
 ## Definition

@@ -51,3 +51,4 @@ MITRE’s entry for “Acquire Infrastructure: Domains” has a [good list of ex
 * [MITRE entry for “Acquire Infrastructure: Domains”](https://attack.mitre.org/techniques/T1583/001/)  
 * [Newly Registered Domains blocklist](https://github.com/xRuffKez/NRD)
 
+

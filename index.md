@@ -61,6 +61,7 @@ We currently have a regularly scheduled weekly meeting every two weeks on Thursd
 
  - Jonathan Spring, CISA
  - Peter Lowe
+ - Vinzenz Vogel, SWITCH
 
 ## Founders
 

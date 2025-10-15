@@ -49,7 +49,7 @@ We have a Japanese version of the document available here:
 The Matrix has been incoporated into other work elsewhere:
 
  - <a href="https://github.com/MISP/misp-galaxy#first-dns-abuse-techniques-matrix">MISP Galaxy</a>
- - <a href="https://github.com/dod-cyber-crime-center/cti-stix-common-objects/blob/incident_rework/extension-definition-specifications/incident-core/Incident%20Extension%20Suite.adoc#event-type-ov">STIX Event Type Vocabulary</a>
+ - <a href="https://github.com/oasis-open/cti-stix-common-objects/blob/main/extension-definition-specifications/incident-ef7/Incident%20Extension%20Suite.adoc#44-event-type-vocabulary">STIX Event Type Vocabulary</a>
 
 
 ## Meetings and Communication

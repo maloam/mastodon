@@ -43,6 +43,10 @@
                 url: /global/sigs/dns/stakeholder-advice/detection/on-path-dns-attack
             - title: Stub Resolver Hijacking
                 url: /global/sigs/dns/stakeholder-advice/detection/stub-resolver-hijacking
+            - title: Spoofing of a Registered Domain
+                url: /global/sigs/dns/stakeholder-advice/detection/spoofing-of-a-registered-domain
+            - title: Spoofing of Unregistered Domains
+                url: /global/sigs/dns/stakeholder-advice/detection/spoofing-of-unregistered-domains
     - title: Code of Conduct & Other Policies
       url: /global/sigs/dns/policies
     - title: Examples of DNS Abuse

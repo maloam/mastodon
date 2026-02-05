@@ -1,4 +1,4 @@
-# [CHANGES.md](http://CHANGES.md)
+# CHANGES.md
 
 This file should record changes worth mentioning from the SIG and its meetings. No particular rules, just what seems appropriate to record. Entries should be in reverse chronological order.
 

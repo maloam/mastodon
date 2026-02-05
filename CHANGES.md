@@ -1,0 +1,11 @@
+# [CHANGES.md](http://CHANGES.md)
+
+This file should record changes worth mentioning from the SIG and its meetings. No particular rules, just what seems appropriate to record. Entries should be in reverse chronological order.
+
+# 2026-02-05
+
+Created CHANGES.md
+
+# 2026-01-22
+
+Finished going through the TODO list.

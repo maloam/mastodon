@@ -1,7 +1,7 @@
-<!--  
----  
+<!--
+---
 title:  FIRST DNS Abuse SIG: CHANGES.md - a list of updates related to the SIG  
-...  
+...
 -->
 
 # CHANGES.md

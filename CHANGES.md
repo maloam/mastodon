@@ -9,7 +9,9 @@ This file should record changes worth mentioning from the SIG and its meetings. 
 
 # 2026-04-05
 Created v1.3 of the DNS Abuse Techniques Matrix
+
 Updated lame delegations detection capabilities
+
 Changed ordering of CHANGES.md updates
 
 # 2026-02-05

@@ -7,7 +7,10 @@ title: "FIRST DNS Abuse SIG: CHANGES file"
 
 This file should record changes worth mentioning from the SIG and its meetings. No particular rules, just what seems appropriate to record. Entries should be in reverse chronological order.
 
-# 2026-04-05
+# 2026-03-19
+Updated and fixed the SIG mission and goals & deliverables
+
+# 2026-02-05
 Created v1.3 of the DNS Abuse Techniques Matrix
 
 Updated lame delegations detection capabilities

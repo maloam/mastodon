@@ -37,7 +37,7 @@
                 url: /global/sigs/dns/stakeholder-advice/detection/infiltration-and-exfiltration-via-the-dns
             - title: Lame Delegations
                 url: /global/sigs/dns/stakeholder-advice/detection/lame-delegations
-            - title: Local Resolver Hijacking
+            - title: Local Recursive Resolver Hijacking
                 url: /global/sigs/dns/stakeholder-advice/detection/local-resolver-hijacking
             - title: Malicious registration of (effective) second level domains
                 url: /global/sigs/dns/stakeholder-advice/detection/malicious-registration-of-effective-second-level-domains

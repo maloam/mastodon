@@ -81,6 +81,8 @@ If you're interested in joining, please check out the <a href="policies">policie
 
 <p class="ui-buttons"><a href="https://portal.first.org/g/DNS%20Abuse%20SIG" class="button color-button animated">Request to Join</a></p>
 
-## CHANGES
+## CHANGES + other documents
 
-We are tracking changes in <a href="CHANGES">CHANGES.md</a>
+We are tracking changes in <a href="CHANGES">CHANGES.md</a>.
+
+CONTRIBUTORS are being tracked in the <a href="CONTRIBUTORS">CONTRIBUTORS.md</a>.

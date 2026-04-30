@@ -7,15 +7,6 @@ CHANGES.md
 
 This file should record changes worth mentioning from the SIG and its meetings. No particular rules, just what seems appropriate to record. Entries should be in reverse chronological order.
 
-# 2026-04-27
-Updated mission statement point 1 to: "Provide globally-accessible descriptions and definitions of DNS Abuse in an operational context for purposes of global policy recommendations."
-
-Added link to DNS Abuse Techniques Matrix to left nav.
-
-Republished Fast-flux, DGA, cache poisoning, and DNS tunneling stakeholder advice documents with small changes to wording for consistency.
-
-Published CONTRIBUTORS.md.
-
 # 2026-04-30
 Renamed "Spoofing or otherwise using unregistered domain names" to "Use of an unregistered domain" and updated the definition to remove references to spoofing.
 

@@ -18,6 +18,7 @@ Updated definitions for:
  - Creation of Malicious Subdomains Under Dynamic DNS Providers
  - Fast flux (added note about "double fast flux")
 
+Updated acknowledgements in the Matrix source document.
 
 ## 2026-04-27
 Updated mission statement point 1 to: "Provide globally-accessible descriptions and definitions of DNS Abuse in an operational context for purposes of global policy recommendations."

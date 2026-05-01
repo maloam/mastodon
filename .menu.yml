@@ -15,7 +15,7 @@
                 url: /global/sigs/dns/stakeholder-advice/detection/cache-poisoning
             - title: DGA Domains
                 url: /global/sigs/dns/stakeholder-advice/detection/dga
-            - title: DNS As a Vector for DoS
+            - title: DNS as a Vector for DoS
                 url: /global/sigs/dns/stakeholder-advice/detection/dns-as-a-vector-for-dos
             - title: DNS Beacons - C2 Communication
                 url: /global/sigs/dns/stakeholder-advice/detection/dns-beacons-c2-communication

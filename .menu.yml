@@ -29,7 +29,7 @@
                 url: /global/sigs/dns/stakeholder-advice/detection/dos-against-the-dns
             - title: Domain Name Compromise
                 url: /global/sigs/dns/stakeholder-advice/detection/domain-name-compromise
-            - title: Fast Flux (as obfuscation technique)
+            - title: Fast Flux
                 url: /global/sigs/dns/stakeholder-advice/detection/fast-flux
             - title: Infiltration and exfiltration via the DNS
                 url: /global/sigs/dns/stakeholder-advice/detection/infiltration-and-exfiltration-via-the-dns

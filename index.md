@@ -25,11 +25,11 @@ The mission of the DNS Abuse SIG is to aid incident responders and security team
 
 ## DNS Abuse Techniques Matrix
 
-Our first major publication is a matrix of DNS Abuse Techniques and Stakeholders:
+The primary publication of the group is the DNS Abuse Techniques Matrix:
 
  - <a href="DNS-Abuse-Techniques-Matrix_v1.3.pdf">DNS-Abuse-Techniques-Matrix_v1.3.pdf</a>
 
-The advice currently takes the form of a matrix indicating whether a specific stakeholder can directly help with a specific technique. By “help”, we mean whether the stakeholder is in a position to detect, mitigate, or prevent the abuse technique. We have organized this information under three spreadsheets covering these incident response actions. For example, during an incident involving DNS cache poisoning, the team can go to the mitigation tab and look at the row for DNS cache poisoning, to find which stakeholders they might be able to contact to help mitigate the incident.
+The advice currently takes the form of a matrix indicating whether a specific stakeholder can directly help with a specific technique. By “help”, we mean whether the stakeholder is in a position to detect, mitigate, or prevent the abuse technique. We have organized this information under three tables covering these incident response actions. For example, during an incident involving DNS cache poisoning, the team can go to the mitigation tab and look at the row for DNS cache poisoning, to find which stakeholders they might be able to contact to help mitigate the incident.
 
 Thanks is given in the document, which is the result of collaboration between many people representing a wide of range roles in the DNS industry.
 

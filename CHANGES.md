@@ -45,7 +45,7 @@ HTML version changes (https://firstdotorg.github.io/dns-abuse-sig/)
  - Noted that there are legitimate uses of fast flux, in the stakeholder advice
  - Fixed "spoofing of a registered domain (for abuse)" in DNS Abuse Techniques Matrix
 
-## 2026-06-06
+## 2026-04-06
 HTML version updates:
  - CSIRT definition updated
  - Nav bar update - CSIRTs/ISACs -> CSIRT

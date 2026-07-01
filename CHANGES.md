@@ -7,6 +7,9 @@ title: "FIRST DNS Abuse SIG: CHANGES file"
 
 This file should record changes worth mentioning from the SIG and its meetings. No particular rules, just what seems appropriate to record. Entries should be in reverse chronological order.
 
+# 2026-07-01
+Made the GitHub repo public.
+
 # 2026-06-25
 Created a matrix processing pipeline for the DNS Abuse Techniques Matrix, including Markdown source content, structured CSV data output, validation, generated tables, and PDF build tooling.
 

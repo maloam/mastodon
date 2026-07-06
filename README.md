@@ -4,6 +4,15 @@ This repo holds the source content and publishing tooling for the [FIRST](https:
 
 > **Looking for the SIG itself?** The official homepage is <https://www.first.org/global/sigs/dns> - the authoritative source for the SIG's mission, goals, meeting schedule, chairs, and how to join. It is generated from the contents of this repository, so the two should always agree; if they ever drift, the homepage wins. This README covers what lives here and how to build it.
 
+### Background
+
+Notable threat groups known for abusing DNS include:
+
+- APT28 (Fancy Bear) and APT29 (Cozy Bear): These are Russian state-sponsored groups. They frequently use DNS tunneling (hiding stolen data inside DNS queries) and register fake domains to mimic legitimate websites to steal credentials from governments and organizations.
+- The Lazarus Group: A North Korean state-sponsored group known for using compromised DNS infrastructure and malicious domains to target cryptocurrency exchanges and financial institutions.
+- Cybercrime Syndicates (e.g., Evil Corp, Trickbot/Conti operators): These criminal groups use a technique called "Fast-Flux DNS" (constantly changing the IP addresses associated with a domain name) to hide their malware servers and botnets from law enforcement and CERTs.
+- Hacktivists (e.g., Anonymous): Groups like Anonymous have historically used DNS hijacking (taking over a domain's DNS settings) to redirect traffic from corporate or government websites to protest pages, similar to Eugene Kashpureff's 1997 attack.
+
 ## Repository layout
 
 | Path | Contents |
